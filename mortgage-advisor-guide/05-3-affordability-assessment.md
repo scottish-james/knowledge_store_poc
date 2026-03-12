@@ -4,6 +4,8 @@ Responsible lending is a cornerstone of the UK mortgage market. Advisors must ca
 
 ### 3.1 Income Verification
 
+Hello 
+
 Income verification requirements vary depending on the borrower’s employment status. The table below summarises the standard documentation required:
 
 | **Employment Type**                      | **Documentation Required**                                                                                                          | **Additional Notes**                                                                                                                              |
